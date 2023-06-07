@@ -63,5 +63,14 @@ ul li a:visited { /*cambia il colore dei link utilizzati*/
     color: #936b5f;
 }
  
-
+footer{
+    text-align: center;
+    color: white;
+    background-color: black;
+    padding: 16px;
+}
+ 
+footer a{
+    color: white;
+}
 

@@ -62,6 +62,17 @@ ul li a{    /*Cambia tutti gli <a> che hanno parent <li> che hanno parent <ul>*/
 ul li a:visited { /*cambia il colore dei link utilizzati*/
     color: #a4e8ef;
 }
+
+footer{
+    text-align: center;
+    color: white;
+    background-color: black;
+    padding: 16px;
+}
+ 
+footer a{
+    color: white;
+}
  
 
 
