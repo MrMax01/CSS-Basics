@@ -9,7 +9,7 @@ body{
 
 .image-cointainer{
     height: 500px;
-    background-image: url(https://content.skyscnr.com/m/40595778199727e3/original/GettyImages-93489578_doc.jpg?resize=1800px:1800px&quality=100);
+    background-image: url(https://content.skyscnr.com/m/20a2cb8a4a537fe6/original/GettyImages-177101546_doc.jpg?resize=1800px:1800px&quality=100);
     background-size: cover;
     background-position: bottom;
     background-repeat: no-repeat;
@@ -42,7 +42,7 @@ h6{
     margin-top: 56px;
     color: white;
     border-radius: 6px;
-    background-image: linear-gradient(to right,#d5b164, #33817d); /*colori presi dall'immagine con https://imagecolorpicker.com/*/
+    background-image: linear-gradient(to right,#cac4b8, #0fd6d7); /*colori presi dall'immagine con https://imagecolorpicker.com/*/
 }
 
 ul{
@@ -60,7 +60,7 @@ ul li a{    /*Cambia tutti gli <a> che hanno parent <li> che hanno parent <ul>*/
 }
 
 ul li a:visited { /*cambia il colore dei link utilizzati*/
-    color: #d5b164;
+    color: #cac4b8;
 }
  
 footer{
